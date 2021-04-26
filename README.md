@@ -117,7 +117,6 @@ It can be accessed at [`localhost:5000/docs`](localhost:5000/docs) when the api 
 
 Are you interested how we set up the project and what commands we used? Checkout [our setup guide](setup-guide.md)
 
-
 <!-- LICENSE -->
 
 ## License
